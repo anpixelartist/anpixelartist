@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋 I'm PritiPratyush Mohapatra!
 
-<!--
-**anpixelartist/anpixelartist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Aspiring Data Scientist**  
+🤖 Passionate about **Machine Learning**, **Artificial Intelligence**, and using data to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- Machine Learning fundamentals  
+- Deep Learning & Neural Networks  
+- Python for Data Science (NumPy, Pandas, Matplotlib)  
+- Exploratory Data Analysis & Data Visualization  
+- AI concepts and real-world applications  
+
+---
+
+## 🛠️ Tech & Tools
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn  
+- **Tools:** Jupyter Notebook, Git/GitHub, VS Code  
+- **Interests:** ML algorithms, AI models, data storytelling
+
+---
+
+## 🔭 What I’m Working Toward
+- Building ML projects  
+- Improving model accuracy and experimentation  
+- Learning end-to-end data science workflows  
+- Exploring neural networks and deep learning
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: [PritiPratyush Mohapatra](https://www.linkedin.com/in/priti-pratyush-mohapatra-5ab082241)
+- 📧 Email: [GetInTouch](mohapatrapritipratyush@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+I think data tells better stories than words — you just need the right model to read them. 📊✨
+
