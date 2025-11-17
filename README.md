@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="WhatsApp Image 2025-09-24 at 23.04.07_f87bbcee.jpg"
+       width="400"
+       style="border-radius: 50%; box-shadow: 0 0 20px #e9caff;" />
+</p>
 # Hi there 👋 I'm PritiPratyush Mohapatra!
 
 🎓 **Student | Aspiring Data Scientist**  
